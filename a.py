@@ -9,5 +9,3 @@ elif islem == "-":
     print(num1-num2)
 elif islem == "x":
     print(num1*num2)
-elif islem == "/":
-    print(num1/num2)
