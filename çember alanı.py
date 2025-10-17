@@ -1,4 +1,4 @@
-r = int(input("Çember yarıçapı giriniz"))
+r = int(input("Çember yarıçapı giriniz: "))
 
 import math
 

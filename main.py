@@ -1,1 +1,4 @@
-print("Hello İbrahim")
+import string
+import time
+
+
